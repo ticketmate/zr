@@ -1,0 +1,126 @@
+
+<!doctype html>
+<html lang="jp">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+
+    <!-- Hotjar Tracking Code for https://ticketmate.github.io/ -->
+    <script>
+      (function(h,o,t,j,a,r){
+          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+          h._hjSettings={hjid:1816403,hjsv:6};
+          a=o.getElementsByTagName('head')[0];
+          r=o.createElement('script');r.async=1;
+          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+          a.appendChild(r);
+      })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+
+    <style type="text/css">
+      img { max-height: 55vh; }
+
+      .fluffy {
+        animation: fluffy1 2s ease infinite;
+      }
+
+      @keyframes fluffy1 {
+        0% { transform:translateY(0) }
+        5% { transform:translateY(0) }
+        10% { transform:translateY(0) }
+        20% { transform:translateY(-15px) }
+        25% { transform:translateY(0) }
+        30% { transform:translateY(-15px) }
+        50% { transform:translateY(0) }
+        100% { transform:translateY(0) }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container py-5">
+      <h1 class='h3 text-center'>
+        【剛毛男子必見】
+        <br/>
+        自宅で全身除毛をして、 夏を楽しもう!
+      </h1>
+
+      <div class='text-center mb-3'><img style='max-width: 80%;' src='./assets/images/図1.png'/></div>
+
+      <p>剛毛男子のみなさん、<strong class='text-danger'>朗報</strong>です!! </p>
+      <p>今、SNS やメディアで </p>
+      <p><strong class='text-danger'>“自宅で簡単にできる全身除毛がある”</strong></p>
+      <p>と話題になっている除毛法をご存知ですか?</p>
+
+      <div class='mx-3'>
+        <p>☑なるべく楽に全身除毛したい </p>
+        <p>☑カミソリでの処理は面倒 </p>
+        <p>☑脱毛サロンに行くのは高いし抵抗がある </p>
+        <p>☑清潔感をゲットして可愛い彼女がほしい </p>
+      </div>
+
+      <p>もし、あなたがこんな悩みを抱えているのなら、ぜひ試してほしいのです!</p>
+      <div class='m-5'></div>
+
+      <h2 class='h4 mt-5'><strong class='bg-warning'>◆効果がスゴイ理由</strong></h2>
+      <p>Zリムーバーについてまとめてみました。</p>
+
+      <div class='text-center mb-3'><img style='max-width: 80%;' src='./assets/images/剛毛をみるみる分解.png'/></div>
+
+      <p>Zリムーバーは、<strong>「男性のどんな剛毛でも10分で一掃できるように」</strong>開発された除毛剤です。</p>
+      <p>市販の一般的な除毛剤の多くは女性用で除毛力が弱く、容量も少ない為、</p>
+      <p>全身の剛毛を一掃するにはやや力不足...。</p>
+      <p>しかし、Zリムーバーは<strong class='text-danger'>「チオグリコール酸カルシウム」</strong>という体毛分解成分が、</p>
+
+      <p><strong>濃い体毛</strong>にも力を発揮します。</p>
+      <div class='m-5'></div>
+
+      <div class='text-center mb-3'><img style='max-width: 80%;'  src='./assets/images/毛の図01.png'/></div>
+
+      <p>「チオグリコール酸カルシウム」が、皮膚の中に浸透し、根元からしっかり除毛。</p>
+      <p>カミソリのように、肌の表面だけを剃るのとは全く違います!</p>
+
+      <div class='text-center mb-3'>
+        <img style='max-width: 80%;'  src='./assets/images/カミソリ.png'/>
+        <p>表面だけを剃るカミソリでは、すぐに毛が再生してしまうのです...。</p>
+      </div>
+      <div class='m-5'></div>
+
+      <p>しかも!</p>
+      <p>男性の濃いムダ毛でも毛の根っこから一掃してくれて、</p>
+      <p>画期的にツルツルになる効果があることから</p>
+      <p>業界でも珍しい<strong class='text-danger'>医薬部外品</strong>(厚生労働省から認定済み)の除毛剤です!</p>
+
+      <div class='text-center mb-3'>
+        <img style='max-width: 80%;'  src='./assets/images/医薬部外品.png'/>
+      </div>
+
+      <p>したがって、ずっとツルツルの状態が続き、美容成分も高配合しているので<strong>肌荒れの心配も少ないです。</strong></p>
+      <p>再生毛もウブ毛のような状態になっており、使い続けていくうちに以前より気にならなくなるとのことです！</p>
+
+      <p>人気俳優の<strong>山本裕典さんがイメージモデル</strong>でSNSでも紹介しています!</p>
+
+      <div class='text-center mb-3'>
+        <img style='max-width: 100%;'  src='./assets/images/山本裕典.png'/>
+      </div>
+
+      <div class='m-5'></div>
+
+      <div class='text-center mb-3'>
+        <a href="https://tr.slvrbullet.com/cl/w0000231003/13336/7800/">
+          <img class='fluffy' style='max-width: 100%;' src='./assets/images/詳細を見るボタン.png'/>
+        </a>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  </body>
+</html>
