@@ -2,7 +2,15 @@
 <!doctype html>
 <html lang="jp">
   <head>
-
+    <script>
+      (function() {
+        var ta = document.createElement('script'); ta.type = 'text/javascript'; ta.async = true;
+        ta.src = 'https://analytics.tiktok.com/i18n/pixel/sdk.js?sdkid=BRCS1UGUB1JFH3P9SGRG';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ta, s);
+      })();
+    </script>
+  
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
@@ -23,6 +31,16 @@
     </script>
 
     <style type="text/css">
+
+      .blink {
+        animation: blinkAnime 0.5s infinite alternate;
+      }
+      
+      @keyframes blinkAnime{
+        0% { color: #000000 }
+        100% { color: #ffffff }
+      }
+      
       bigsize {
         font-size: 1.6em;
       }
